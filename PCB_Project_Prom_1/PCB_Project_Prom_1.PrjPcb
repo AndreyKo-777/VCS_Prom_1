@@ -34,6 +34,7 @@ IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
 ManagedProjectGUID=
+VcsMigrated=BAB2FE78-7E06-4452-A58B-76AE5EAB94D5|50072D36-28F3-4907-A30B-F23004BC36E6
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=BAB2FE78-7E06-4452-A58B-76AE5EAB94D5&ItemGUID=B4784989-795F-4C03-AD28-9CA396B3B5F2&RevisionGUID=97F40C10-65BD-4174-8009-3C49847574EC&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 
